@@ -5,6 +5,7 @@
 **Module:** M4  
 **Deadline:** Monday, 10th Feb | 12:00  
 **Instructor:** Hamid B. (hamidb@business.aau.dk)
+**Student/Group:** <https://github.com/Rogersurf>
 
 ---
 
@@ -45,7 +46,7 @@ using a simple linear regression model:
 
 ### Hyperparameters (Student-specific)
 - Initial weight `w₀`
-- Learning rate `α`
+- Learning rate `L`
 
 Each SGD step is computed **manually** and verified using code.  
 A summary table is generated to show all intermediate values.
@@ -86,8 +87,8 @@ These metrics demonstrate that the same static embedding results in different co
 
 ### 1️⃣ Clone the repository
 
-git clone <REPO_URL>
-cd <REPO_NAME>
+git clone <https://github.com/Rogersurf/project-aau26-deep-learning-artificial-intelligence.git>
+cd <project-aau26-deep-learning-artificial-intelligence/assignments>
 
 ### 2️⃣ Create and activate a virtual environment
 python -m venv venv
